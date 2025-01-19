@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 238.66 53.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Avenir-Black, Avenir;
+        font-size: 37.11px;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.87" y1="7.9" x2="26.04" y2="7.9" gradientTransform="translate(32.3 40.58) rotate(-167.03)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="10.87" y1="7.9" y2="7.9" gradientTransform="translate(12.6 43.89) rotate(-122.03)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="7.9" x2="26.04" y2="7.9" gradientTransform="translate(-3.67 32.3) rotate(-77.03)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x2="26.04" gradientTransform="translate(-6.98 12.6) rotate(-32.03)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" y1="7.9" y2="7.9" gradientTransform="translate(4.61 -3.67) rotate(12.97)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x2="26.04" gradientTransform="translate(24.31 -6.98) rotate(57.97)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" y1="7.9" y2="7.9" gradientTransform="translate(40.58 4.61) rotate(102.97)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="10.87" y1="7.9" x2="26.04" y2="7.9" gradientTransform="translate(43.89 24.31) rotate(147.97)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <path class="cls-9" d="M7.53,32.12c.68.37,1.42.66,2.21.84,4.59,1.06,9.17-1.81,10.23-6.4.46-1.98.18-3.96-.65-5.66,3.25,1.8,5.06,5.59,4.19,9.39-1.06,4.59-5.64,7.46-10.23,6.4-2.61-.6-4.66-2.34-5.75-4.57Z"/>
+    <path class="cls-1" d="M1.07,20.39c.22.75.54,1.47.97,2.16,2.5,4,7.77,5.21,11.76,2.71,1.73-1.08,2.93-2.67,3.54-4.46,1.03,3.57-.37,7.53-3.68,9.6-4,2.5-9.26,1.29-11.76-2.71-1.42-2.27-1.64-4.95-.84-7.3Z"/>
+    <path class="cls-4" d="M4.79,7.53c-.37.68-.66,1.42-.84,2.21-1.06,4.59,1.81,9.17,6.4,10.23,1.98.46,3.96.18,5.66-.65-1.8,3.25-5.59,5.06-9.39,4.19C2.03,22.46-.84,17.88.22,13.28c.6-2.61,2.34-4.66,4.57-5.75Z"/>
+    <path class="cls-3" d="M16.52,1.07c-.75.22-1.47.54-2.16.97-4,2.5-5.21,7.77-2.71,11.76,1.08,1.73,2.67,2.93,4.46,3.54-3.57,1.03-7.53-.37-9.6-3.68-2.5-4-1.29-9.26,2.71-11.76,2.27-1.42,4.95-1.64,7.3-.84Z"/>
+    <path class="cls-5" d="M29.38,4.79c-.68-.37-1.42-.66-2.21-.84-4.59-1.06-9.17,1.81-10.23,6.4-.46,1.98-.18,3.96.65,5.66-3.25-1.8-5.06-5.59-4.19-9.39C14.46,2.03,19.04-.84,23.63.22c2.61.6,4.66,2.34,5.75,4.57Z"/>
+    <path class="cls-8" d="M35.85,16.52c-.22-.75-.54-1.47-.97-2.16-2.5-4-7.77-5.21-11.76-2.71-1.73,1.08-2.93,2.67-3.54,4.46-1.03-3.57.37-7.53,3.68-9.6,4-2.5,9.26-1.29,11.76,2.71,1.42,2.27,1.64,4.95.84,7.3Z"/>
+    <path class="cls-7" d="M32.12,29.38c.37-.68.66-1.42.84-2.21,1.06-4.59-1.81-9.17-6.4-10.23-1.98-.46-3.96-.18-5.66.65,1.8-3.25,5.59-5.06,9.39-4.19,4.59,1.06,7.46,5.64,6.4,10.23-.6,2.61-2.34,4.66-4.57,5.75Z"/>
+    <path class="cls-6" d="M20.39,35.84c.75-.22,1.47-.54,2.16-.97,4-2.5,5.21-7.77,2.71-11.76-1.08-1.73-2.67-2.93-4.46-3.54,3.57-1.03,7.53.37,9.6,3.68,2.5,4,1.29,9.26-2.71,11.76-2.27,1.42-4.95,1.64-7.3.84Z"/>
+  </g>
+  <text class="cls-2" transform="translate(44.11 35.02)"><tspan x="0" y="0">Resumeter</tspan></text>
+</svg>
