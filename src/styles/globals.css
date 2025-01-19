@@ -2,13 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'Avenir';
-  src: url('/fonts/Avenir.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
+/* Import Avenir font from CDN */
+@import url('https://fonts.cdnfonts.com/css/avenir');
 
 :root {
   --primary-light: #ECF3FB;
@@ -27,20 +22,50 @@
 }
 
 body {
-  @apply font-avenir bg-primary-light dark:bg-primary-dark text-primary dark:text-primary-light;
+  font-family: 'Avenir', sans-serif;
+  @apply bg-primary-light dark:bg-primary-dark text-primary dark:text-primary-light;
 }
 
-/* Custom Streamlit overrides */
+/* Header Styles */
+.header {
+  @apply fixed top-0 left-0 right-0 z-50 bg-white dark:bg-primary-dark shadow-md;
+}
+
+.header-container {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between;
+}
+
+.logo {
+  @apply h-8 w-auto;
+}
+
+/* Streamlit Custom Styles */
 .stApp {
   @apply bg-primary-light dark:bg-primary-dark;
 }
 
-.stButton>button {
+.stButton > button {
   @apply bg-primary text-white dark:bg-white dark:text-primary rounded-lg px-4 py-2 
          hover:bg-opacity-90 transition-all duration-200;
 }
 
-.stTextInput>div>div>input {
+.stTextInput > div > div > input {
   @apply bg-white dark:bg-primary-dark border border-gray-300 dark:border-gray-600 
          rounded-lg focus:ring-2 focus:ring-primary dark:focus:ring-white;
+}
+
+/* Main Content Area */
+.main-content {
+  @apply mt-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto py-8;
+}
+
+/* Responsive Design */
+@media (max-width: 640px) {
+  .header-container {
+    @apply py-2;
+  }
+  
+  .logo {
+    @apply h-6;
+  }
 }
